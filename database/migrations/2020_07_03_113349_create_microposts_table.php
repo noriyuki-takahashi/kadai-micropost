@@ -25,7 +25,7 @@ class CreateMicropostsTable extends Migration
     }
 
     /**
-     * Reverse the migrations.
+     * Reverse the migrations.USE データベース名;
      *
      * @return void
      */
